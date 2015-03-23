@@ -1,0 +1,9 @@
+.build*
+.npm
+node_modules
+browser-bundle.js
+npm-debug.log
+*~
+lib/
+idea/
+.idea/
