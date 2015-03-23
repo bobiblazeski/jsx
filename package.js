@@ -3,7 +3,7 @@ var reactVersion = "0.13.1";
 Package.describe({
   name: 'bobiblazeski:jsx',
   version: reactVersion,
-  summary: '',
+  summary: 'Compile React files with extension jsx from JSX syntax is desugared into native JavaScript',
   git: 'https://github.com/bobiblazeski/jsx.git',
   documentation: 'README.md'
 });
