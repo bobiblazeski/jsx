@@ -1,4 +1,4 @@
-var reactVersion = "0.13.1";
+var reactVersion = "0.13.2";
 
 Package.describe({
   name: 'bobiblazeski:jsx',

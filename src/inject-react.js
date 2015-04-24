@@ -1,4 +1,4 @@
-var version = 'react-with-addons-0.13.1',
+var version = 'react-with-addons-0.13.2',
     file = process.env.NODE_ENV === "production"
     ? version+".min.js"
     : version+".js";
